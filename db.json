@@ -1,0 +1,60 @@
+{
+  "contas": [
+    {
+      "nome": "Jefferson Gonçalves Coelho",
+      "email": "bio.jeffcoelho@gmail.com",
+      "telefone": "92994347192",
+      "cep": "69073-125",
+      "cpf": "020312321312",
+      "senha": "1234124",
+      "numero": "22",
+      "logradouro": "rua amazonas",
+      "bairro": "crespo",
+      "dataNascimento": "08080808",
+      "id": 1
+    },
+    {
+      "nome": "Jefferson Gonçalves Coelho",
+      "email": "bio.jeffcoelho@gmail.com",
+      "telefone": "92994347192",
+      "cep": "69073-125",
+      "cpf": "020312321312",
+      "senha": "1234124",
+      "numero": "22",
+      "logradouro": "rua amazonas",
+      "bairro": "crespo",
+      "dataNascimento": "08080808",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "nome": "Jefferson Gonçalves Coelho",
+      "email": "bio.jeffcoelho@gmail.com",
+      "telefone": "92994347192",
+      "cep": "69073-125",
+      "cpf": "e3333333333333",
+      "numero": "3",
+      "logradouro": "32323",
+      "bairro": "323233",
+      "dataNascimento": "23232",
+      "senha": "Bioevajone96",
+      "senhas": "Bioevajone96",
+      "id": 4
+    },
+    {
+      "email": "bio.jeffcoelho@gmail.com",
+      "nome": "Jefferson Gonçalves Coelho",
+      "telefone": "92994347192",
+      "cep": "69073-125",
+      "logradouro": "Beco Abrantes",
+      "numero": "22",
+      "bairro": "Crespo",
+      "dataNascimento": "08/05/1996",
+      "senha": "2p96!*>K",
+      "senhas": "2p96!*>K",
+      "id": 5
+    }
+  ]
+}
